@@ -1,0 +1,90 @@
+CHOCHRANE,,,,,
+,,,,,
+Key search terms,Hits (n=),May-Nov,Aug,Total,Notes
+,,,2024,,
+Mental Health,,,,,
+,,,,,
+“mental health”[Mesh],417,44,665,,Medical Subject Heading
+“mental Health”,"7,494",1962,10058,,Keyword
+“psychological distress”[Mesh],135,8,155,,Medical Subject Heading
+“psychological distress”,1025,331,1535,,Keyword
+“psychological wellbeing”,170,75,257,,Keyword
+“psychological health”,299,96,441,,Keyword
+“psychological impact”,88,23,156,,Keyword
+“mental health impact”,8,1,11,,Keyword
+“mental health condition”,63,9,67,,Keyword
+“psychological disorder”,17,8,402,,Keyword
+“psychiatric disorder”,175,41,212,,Keyword
+“Psychological illness”,7,4,11,,Keyword
+ “Psychology”[Mesh],95,9,87,,Medical Subject Heading
+“psychological condition”,36,17,69,,Keyword
+Full Syntax:,,,#15,,
+,,,,,
+Search: #18 (summary of all),,,,,
+,,,,,
+#2OR#3OR#5OR#7OR#8OR#9OR,,,,,
+#10OR#11OR#12OR#13OR#14OR#15OR#16OR#17,,,,,
+Combine above with OR,"8,530",2387,12002,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Gender differences,,,,,
+,,,,,
+"""Sex Characteristics""[Mesh]",62,8,72,,Medical Subject Heading
+“Gender identity”[Mesh],17,4,48,,Medical Subject Heading
+“Gender equity”[Mesh],3,0,3,,Medical Subject Heading
+“gender differences”,201,24,171,,Keyword
+“sex characteristics”,67,10,72,,Keyword
+“Gender equity”,23,4,17,,Keyword
+“gender identity”,63,18,98,,Keyword
+“gender disparity”,2,0,5,,Keyword
+“gender impacts”,0,0,1,,Keyword
+“gender impact”,1,0,2,,Keyword
+“gender groups”,86,4,30,,Keyword
+“gender comparison”,2,0,4,,Keyword
+“gender analysis”,12,3,9,,Keyword
+Full syntax: ,,,,,
+,,,,,
+Search:  #20OR#22OR#24OR#25OR,,,,,
+#26OR#27OR#28OR#29OR#30OR,,,,,
+#31OR#32OR#33OR#34,,,,,
+,,,,,
+COMBINED MH AND GENDER: ,,,,,
+,,,,,
+#18AND#35,,,#15AND#29,,
+Combined above with OR,444,64,400,,
+,,,,,
+MH AND GENDER  ,43,13,61,,
+,,,,,
+COVID-19,,,,,
+,,,,,
+“COVID-19”[Mesh],"1,721",524,4531,,Medical Subject Heading
+"""Pandemics""[Mesh]",434,,1225,,Medical Subject Heading
+,,100,,,
+“global pandemic”,137,27,97,,Keyword
+“COVID-19”,"10,379",2133,10013,,Keyword
+“COVID-19 pandemic”,"2,140",572,2920,,Keyword
+“lockdown”,182,36,225,,Keyword
+“COVID-19 lockdown”,56,14,70,,Keyword
+“pandemics”,548,116,1093,,Keyword
+“global health emergency”,15,1,4,,Keyword
+“contagion mitigation”,0,0,0,,Keyword
+“social distancing”,281,43,161,,Keyword
+“coronavirus 2019”,128,25,64,,Keyword
+“novel coronavirus”,561,198,447,,Keyword
+Full syntax: #37OR#39OR#41OR#42OR#43OR#,,,,,
+44OR#45OR#46OR#47OR#48O,,,,,
+R#49OR#50OR#51 ,,,,,
+,,,,,
+(#52 in total),,,,,
+,,,,,
+Search: #18AND#35AND#52,,,,,
+,,,,,
+,,,,,
+Combined above with OR,"10,531",2163,10170,,
+MH AND GENDER AND COVID-19,43,13,11,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,Data file – 

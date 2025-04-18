@@ -1,0 +1,72 @@
+WEB OF SCIENCE,,,,,
+,,,,,
+Key search terms,Hits (n=),May-Nov,August,Total,Notes
+,,,2024,,
+Mental Health,,,,,
+,,,,,
+“mental Health”,"122,286",7576,100990,,Keyword
+“psychological distress”,"10,921",842,9253,,Keyword
+“psychological wellbeing”,"1,240",0,1249,,Keyword
+“psychological health”,"2,960",805,2928,,Keyword
+“psychological impact”,"3,138",469,2071,,Keyword
+“mental health impact”,391,820,292,,Keyword
+“mental health condition”,474,0,549,,Keyword
+“psychological disorder”,374,226,209,,Keyword
+“psychiatric disorder”,"3,132",240,1537,,Keyword
+“Psychological illness”,62,60,45,,Keyword
+“psychological condition”,223,1,196,,Keyword
+Full Syntax:,,#38,#13,,
+,,,,,
+Search:,,,,,
+,,,,,
+#12,,,,,
+Combine above with OR,"133,369",9101,110838,,
+,,,,,
+Gender differences,,,,,
+“gender differences”,"15,259",2767,15681,,Keyword
+“sex characteristics”,"4,823",24,309,,Keyword
+“Gender equity”,"1,258",54,1477,,Keyword
+“gender identity”,"3,756",358,,,Keyword
+“gender disparity”,674,18,738,,Keyword
+“gender impacts”,46,51,3209,,Keyword
+“gender impact”,102,785,112,,Keyword
+“gender groups”,504,17,558,,Keyword
+“gender comparison”,78,2,67,,Keyword
+“gender analysis”,260,154,292,,Keyword
+Full syntax: ,,#49,,#24,
+,,,,,
+Search:  #25,,,,,
+,,#38&49,,#24&#13,
+COMBINED MH AND GENDER: #26,,,,,
+,,,,#25,
+,,,,,
+Combined above with OR,"25,112",3907,21828,,
+,,,,,
+MH AND GENDER  ,"3,566",262,3003,,
+,,,,,
+COVID-19,,,,,
+,,,,,
+“global pandemic”,"7,755",2,3621,,Keyword
+“COVID-19”,"322,960",5608,222362,,Keyword
+“COVID-19 pandemic”,"113,049",10,98216,,Keyword
+“lockdown”,"18,563",349,11321,,Keyword
+“COVID-19 lockdown”,"4,710",49,3302,,Keyword
+“pandemics”,"101,732",16,8458,,Keyword
+“global health emergency”,487,4,402,,Keyword
+“contagion mitigation”,3,1,1,,Keyword
+“social distancing”,"10,433",1,3931,,Keyword
+“coronavirus 2019”,"3,782",354,807,,Keyword
+“novel coronavirus”,"13,013",0,2581,,Keyword
+Full syntax: ,,#62,#37,,
+,,,,,
+Search: #40,,#62&50,#37&#25,,
+,,,,,
+Combined: #41,,,,,
+,,,,,
+,,,,,
+Combined above with OR,"329,548",6221,226443,,
+MH AND GENDER AND COVID-19,399,2,409,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,Data file – 

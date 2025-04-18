@@ -1,0 +1,78 @@
+AUTHORS:
+This dataset was compiled by Dr Harriet Elizabeth Moore (HaMoore@lincoln.ac.uk)
+Secondary screeners included Dr David Nelson and Dr Samuel Cooke. 
+Professor Kyla Pennington acted as secondary data extractor. 
+
+SEARCHES:
+"Searches were conducted at three month intervals between May, 2022 and August, 2024. Search results are synthesised per database across the following tabs: "
+
+CINAHL_Searches: https://www.ebsco.com/products/research-databases/cinahl-database
+CHOCHRANE_Searches: https://www.cochranelibrary.com/advanced-search
+PSYCINFO: https://psycnet.apa.org/home
+PUBMED_Searches: https://pubmed.ncbi.nlm.nih.gov/advanced/
+WEB_OF_SCIENCE_Searches: https://webofscience.help.clarivate.com/en-us/Content/advanced-search.html
+
+FULL_DATABASE:
+This spreadsheet presents all variables and coded data included in the study. See Code_Book for further details.
+
+"ID (A1-276): Numeric value assigned to each study included in the literature review. While numbers are ordered from lowest to highest, gaps in numeric sequence reflect the exclusion of studies that did not meet inclusion criteria throughout the screening process. "
+Title (B1-276): Study titles extracted during searches.
+Publication Year (C1-276): Year of study publication in journal.
+Journal Type (D1-276): Journal specialisation/environment.
+Statistical Analysis Type (E1-276): Analytical approach utilised to explore gender/sex and mental health differences and associations. 
+Study Design (F1-276): Study design by most common approaches. 
+Country (G1-276): Country where study sample was recruited.
+Geographic Region (H1-276): Regional context of each country according to World Bank Group regional allocations.
+Regional Code (I1-276): Numeric value assigned to geographic regions.
+Country Sex Proportions (J1-276): Known proportions of different sexes per country population.
+Data Collection Time Period (K1-276): Year or years reported in studies when data was collected.
+Age (L1-276): Age group or groups included in study samples. 
+Population (M1-276): Population represented in studies by reported sample characteristics. 
+Gender Proportion (N1-276): The proportion of study sample characterised by gender. Missing values indicate that gender proportions were not reported. 
+Sex_Proportion (O1-276): The proportion of the study sample characteristed by sex. Missing values indicate that sex was not reported.
+Aggregate Gender_Sex_Proportion (P1-276): Aggregate proportion of gender or included in study sample.
+"Gender/Sex Excluded (Q1-276): Studies identified whereby gender or sex minority groups have been intentionally excluded from the study sample, reporting and analysis. "
+Total (n) (R1-276): Total number of participants included in study samples. 
+Geographical Characteristics reported (S1-276): Identification of whether studies report the rural and urban dynamics of sample participants. 
+"Proportion Rural Compared to Urban (T1-276): For studies reporting geographical characteristics, proportion (%) of study sample residing in rural compared to urban landscapes. "
+Data Type (U1-276): Characteristics of mental health data collected and reported in studies. 
+Mental Health Measures Code 1 (V1-276): Type of symptom measured. 
+Mental Health Measures Code 2 (W1-276): Identification of whether studies involve validated measurement tools or unvalidated measurement tools. 
+"Difference of Groups Analysis Outcomes (X1-276): Outcomes of studies involving difference of groups statistical analysis in relation to differences by gender, sex, or sexual orientation."
+"Mixed Outcomes for Difference of Groups Analysis (Y1-276): Description of analytical outcomes per gender, sex or sexual orientation group for studies whereby results varied by mental health measures. "
+"Regression or Correlation Analysis Outcomes (Z1-276): Outcomes of studies involving analysis of associations between gender, sex, or sexual orientation and mental health measures, including regression and correlation analysese. "
+"Mixed Outcomes for Regression or Correlation Analysis (AA1-276): Description of analytical outcomes per gender, sex or sexual orientation for studies where outcomes varied by mental health measure. "
+"Aggregate Outcomes (AB1-276): Synthesis of outcomes by gender, sex and sexual orientation across difference of groups and regression or correlation analysese. "
+"Non-significant Results (AC1-276): Details of findings indicating no difference between gender, sex or sexual orientation groups, or no association between mental health measures and gender, sex or sexual orientation groups. "
+QAM 1: Research Questions Clear (AD1-276): Quality Assessment Metric reporting whether study research questions are clear. 
+QAM 2: Appropriate Data (AE1-276): Quality Assessment Metric reporting whether study utilised appropriate data. 
+QAM 3: Participants Representative (AF1-276): Quality Assessment Metric indicating whether sample gender and sex characteristics reflect country demographic proportions.
+"QAM 4: Measurements/Data Analaysis Appropriate (AG1-276): Quality Assessment Metric reporting whether study measures are appropriate and used appropriately, including whether data collected through use of measures has been analysed using appropriate statistical tools. "
+QAM 5: Outcome Data Complete (AH1-276): Quality Assesment Metric reporting whether all outcome data is presented either in the body of the manuscript or in supplementary material.
+"QAM 6: Confounders/Covariates/Controls Included (AI1-276): Quality Assessment Metric reporting the inclusion of confounding variables, covariates, and control variables in statisitical analysis. "
+
+CODE_BOOK:
+Describes all coded data categories for variables (n=35) included in Full_Database.
+
+MEASURES PER STUDY:
+"This spreadsheet provides a detailed breakdown per study of all tools used to measures individual or aggregate mental health symptoms, including indicating whether studies utilised validated tools or unvalidated tools. "
+
+"ID (A1-276): Numeric value assigned to each study included in the literature review. While numbers are ordered from lowest to highest, gaps in numeric sequence reflect the exclusion of studies that did not meet inclusion criteria throughout the screening process. "
+"Mental Health Measures (B1-276): Details extracted from studies about mental health measures, including tools utilised. "
+Symptoms Measured (C-R): List of symptoms measured by most common categories. 'II' refers to unvalidated 'Independent Items' developed by the researchers.
+
+MEASURES_FREQUENCY: 
+This spreadsheet synthesizes frequency of individual mental health tools used in studies included in the systematic literature review. 
+
+ID (A1-167): Numeric value assigned to each mental health tool. 
+Mental Health Measurement Tools (B1-167): List of individual tools used in studies. 
+Frequency (C1-167): Number of studies included in the review utilising each mental health measurement tool.
+Code 1 (D1-167): Type of symptom measured. 
+Code 2 (E1-167): Identification of whether studies involve validated measurement tools or unvalidated measurement tools. 
+
+CHI SQUARE DISTRIBUTION TABLES:
+This series of spreadsheets (n=x) report the full distribution tables for each chi square output synthesised in the manuscript.
+
+Chi_square_Table 6: Reports full distribution table output for three chi square analyses conducted with statistical outcomes synthesised in Table 6 of the manuscript. 
+Chi_square_Table 7: Reports full distribution table output for two chi square analyses conducted with statistical outcomes synthesised in Table 7 of the manuscript. 
+Chi_square_Table 8: Reports full distribuiton table output for seven chi square analyses conducted with statistical outcomes synthesised in Table 9 of the manuscript. 

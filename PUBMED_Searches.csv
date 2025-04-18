@@ -1,0 +1,92 @@
+PUBMED,,,,,
+,,,,,
+Key search terms,Hits (n=),May-Nov,August ,total,Notes
+,,,2024,,
+Mental Health,,,,,
+,,,,,
+“mental health”[Mesh],"13,884",340,15379,,Medical Subject Heading
+“mental Health”,"103,490",24521,99351,,Keyword
+“psychological distress”[Mesh],"2,525",40,1890,,Medical Subject Heading
+“psychological distress”,"7,582",1956,7418,,Keyword
+“psychological wellbeing”,874,299,943,,Keyword
+“psychological health”,"2,224",642,2522,,Keyword
+“psychological impact”,"1,818",433,1527,,Keyword
+“mental health impact”,314,76,278,,Keyword
+“mental health condition”,372,110,551,,Keyword
+“psychological disorder”,146,47,187,,Keyword
+“psychiatric disorder”,"1,524",402,1624,,Keyword
+“Psychological illness”,34,16,42,,Keyword
+ “Psychology”[Mesh],"2,445",262,1317,,Medical Subject Heading
+“psychological condition”,139,43,157,,Keyword
+“psychology”,"179,223",42315,179053,,Keyword
+Full Syntax:,,,,,
+,,,,,
+Search: ,,,,,
+,,,,,
+"((((((((((((((""mental health""[Mesh]) OR (""mental health"")) OR (""psychological distress""[Mesh])) OR (""psychological distress"")) OR (""psychological wellbeing"")) OR (""psychological health"")) OR (""psychological impact"")) OR (""mental health condition"")) OR (""mental health impact"")) OR (""psychological disorder"")) OR (""psychiatric disorder"")) OR (""psychological illness"")) OR (""psychology""[Mesh])) OR (""psychological condition"")) OR (""psychology"")",,,,,
+,,,,,
+Combine above with OR: ,"236,458",58433,241847,,
+,,,,,
+Gender differences,,,,,
+,,,,,
+"""Sex Characteristics""[Mesh]","4,782",705,3301,,Medical Subject Heading
+“Gender identity”[Mesh],"2,491",640,2986,,Medical Subject Heading
+“Gender equity”[Mesh],396,45,362,,Medical Subject Heading
+“gender differences”,"4,789",1213,4788,,Keyword
+“sex characteristics”,"4,961",770,3524,,Keyword
+“Gender equity”,828,199,963,,Keyword
+“gender identity”,"2,686",797,3375,,Keyword
+“gender disparity”,400,86,439,,Keyword
+“gender impacts”,15,5,24,,Keyword
+“gender impact”,37,4,39,,Keyword
+“gender groups”,305,92,370,,Keyword
+“gender comparison”,44,7,36,,Keyword
+“gender analysis”,111,30,121,,Keyword
+Full syntax: ,,,,,
+,,,,,
+Search:  ,,,,,
+,,,,,
+"((((((((((((""sex characteristics""[Mesh]) OR (""Gender identity""[Mesh])) OR (""Gender equity""[Mesh])) OR (""gender differences"")) OR (""sex characteristics"")) OR (""gender equity"")) OR (""gender identity"")) OR (""gender disparity"")) OR (""gender impacts"")) OR (""gender impact"")) OR (""gender groups"")) OR (""gender comparison"")) OR (""gender analysis"")",,,,,
+,,,,,
+COMBINED MH AND GENDER: ,,,,,
+,,,,,
+"(((((((((((((((""mental health""[Mesh]) OR (""mental health"")) OR (""psychological distress""[Mesh])) OR (""psychological distress"")) OR (""psychological wellbeing"")) OR (""psychological health"")) OR (""psychological impact"")) OR (""mental health condition"")) OR (""mental health impact"")) OR (""psychological disorder"")) OR (""psychiatric disorder"")) OR (""psychological illness"")) OR (""psychology""[Mesh])) OR (""psychological condition"")) OR (""psychology"")) AND (((((((((((((""sex characteristics""[Mesh]) OR (""Gender identity""[Mesh])) OR (""Gender equity""[Mesh])) OR (""gender differences"")) OR (""sex characteristics"")) OR (""gender equity"")) OR (""gender identity"")) OR (""gender disparity"")) OR (""gender impacts"")) OR (""gender impact"")) OR (""gender groups"")) OR (""gender comparison"")) OR (""gender analysis""))",,,,,
+,,,,,
+,,,,,
+,,,,,
+Combined above with OR,"13,696",3139,13573,,
+,,,,,
+MH AND GENDER  ,"4,042",905,4128,,
+,,,,,
+COVID-19,,,,,
+,,,,,
+“COVID-19”[Mesh],"156,141",34083,112850,,Medical Subject Heading
+"""Pandemics""[Mesh]","78,424",13750,46578,,Medical Subject Heading
+“global pandemic”,"5,483",943,2598,,Keyword
+“COVID-19”,"240,168",58971,181892,,Keyword
+“COVID-19 pandemic”,"78,371",22483,72046,,Keyword
+“lockdown”,"12,271",2805,7480,,Keyword
+“COVID-19 lockdown”,"3,269",859,2339,,Keyword
+“pandemics”,"82,587",14786,50379,,Keyword
+“global health emergency”,410,54,208,,Keyword
+“contagion mitigation”,113,24,69,,Keyword
+“social distancing”,"6,915",1173,3087,,Keyword
+“coronavirus 2019”,"2,102",301,812,,Keyword
+“novel coronavirus”,"10,772",972,2358,,Keyword
+Full syntax: ,,,,,
+,,,,,
+Search: ,,,,,
+,,,,,
+"((((((((((((""COVID-19""[Mesh]) OR (""pandemics""[Mesh])) OR (""global pandemic"")) OR (""COVID-19"")) OR (""COVID-19 pandemic"")) OR (""lockdown"")) OR (""COVID-19 lockdown"")) OR (""pandemics"")) OR (""global health emergency"")) OR (""contagion mitigation"")) OR (""social distancing"")) OR (""coronavirus 2019"")) OR (""novel coronavirus"")",,,,,
+,,,,,
+Combined: ,,,,,
+,,,,,
+"((((((((((((((((""mental health""[Mesh]) OR (""mental health"")) OR (""psychological distress""[Mesh])) OR (""psychological distress"")) OR (""psychological wellbeing"")) OR (""psychological health"")) OR (""psychological impact"")) OR (""mental health condition"")) OR (""mental health impact"")) OR (""psychological disorder"")) OR (""psychiatric disorder"")) OR (""psychological illness"")) OR (""psychology""[Mesh])) OR (""psychological condition"")) OR (""psychology"")) AND (((((((((((((""sex characteristics""[Mesh]) OR (""Gender identity""[Mesh])) OR (""Gender equity""[Mesh])) OR (""gender differences"")) OR (""sex characteristics"")) OR (""gender equity"")) OR (""gender identity"")) OR (""gender disparity"")) OR (""gender impacts"")) OR (""gender impact"")) OR (""gender groups"")) OR (""gender comparison"")) OR (""gender analysis""))) AND (((((((((((((""COVID-19""[Mesh]) OR (""pandemics""[Mesh])) OR (""global pandemic"")) OR (""COVID-19"")) OR (""COVID-19 pandemic"")) OR (""lockdown"")) OR (""COVID-19 lockdown"")) OR (""pandemics"")) OR (""global health emergency"")) OR (""contagion mitigation"")) OR (""social distancing"")) OR (""coronavirus 2019"")) OR (""novel coronavirus""))",,,,,
+,,,,,
+,,,,,
+Combined above with OR,"243,836",59895,185179,,
+MH AND GENDER AND COVID-19,286,78,307,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,Data file – 

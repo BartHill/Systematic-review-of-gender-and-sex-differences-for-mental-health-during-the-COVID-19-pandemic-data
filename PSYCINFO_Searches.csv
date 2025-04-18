@@ -1,0 +1,77 @@
+PSYCINFO,,,,,
+,,,,,
+Key search terms,Hits (n=),May-Nov,Aug,Total,Notes
+,,,2024,,
+Mental Health,,,,,
+,,,,,
+“mental health”[Mesh],"2,048",206,4,,Medical Subject Heading
+“mental Health”,"17,671",1942,70699,,Keyword
+“psychological distress”[Mesh],321,28,23,,Medical Subject Heading
+“psychological distress”,"1,167",175,3700,,Keyword
+“psychological wellbeing”,85,9,545,,Keyword
+“psychological health”,139,22,1149,,Keyword
+“psychological impact”,96,6,508,,Keyword
+“mental health impact”,5,2,139,,Keyword
+“mental health condition”,8,0,272,,Keyword
+“psychological disorder”,12,0,87,,Keyword
+“psychiatric disorder”,92,12,672,,Keyword
+“Psychological illness”,1,0,15,,Keyword
+ “Psychology”[Mesh],736,96,50,,Medical Subject Heading
+“psychological condition”,1,0,46,,Keyword
+Full Syntax: S15,,S16,S17,,
+,,,,,
+Search:,,,,,
+Combine above with OR,"19,465",2299,73762,,
+,,,,,
+Gender differences,,,,,
+,,,,,
+"""Sex Characteristics""[Mesh]","10,438",31,25,,Medical Subject Heading
+“Gender identity”[Mesh],"9,753",32,11,,Medical Subject Heading
+“Gender equity”[Mesh],12,1,9,,Medical Subject Heading
+“gender differences”,"24,896",116,2507,,Keyword
+“sex characteristics”,"10,503",1,187,,Keyword
+“Gender equity”,453,5,212,,Keyword
+“gender identity”,"19,972",75,2173,,Keyword
+“gender disparity”,92,2,74,,Keyword
+“gender impacts”,"1,411",0,9,,Keyword
+“gender impact”,28,0,21,,Keyword
+“gender groups”,50,0,185,,Keyword
+“gender comparison”,39,0,13,,Keyword
+“gender analysis”,60,0,28,,Keyword
+Full syntax: ,,S33,S34,,
+,,,,,
+Search:  S30,,,S34AND317,,
+,,,,,
+COMBINED MH AND GENDER: S15 AND S30,,,S35,,
+,,,,,
+,,,,,
+Combined above with OR,"53,901",294,5225,,
+,,,,,
+MH AND GENDER  ,252,25,1431,,
+,,,,,
+COVID-19,,,,,
+,,,,,
+“COVID-19”[Mesh],"3,646",391,2,,Medical Subject Heading
+"""Pandemics""[Mesh]",3,240,2,,Medical Subject Heading
+“global pandemic”,37,2,741,,Keyword
+“COVID-19”,"13,984",2131,24911,,Keyword
+“COVID-19 pandemic”,"1,149",303,16530,,Keyword
+“lockdown”,568,85,2169,,Keyword
+“COVID-19 lockdown”,60,17,632,,Keyword
+“pandemics”,"9,089",53,12472,,Keyword
+“global health emergency”,1,0,14,,Keyword
+“contagion mitigation”,1,0,2,,Keyword
+“social distancing”,402,29,975,,Keyword
+“coronavirus 2019”,7,0,70,,Keyword
+“novel coronavirus”,47,1,194,,Keyword
+Full syntax: S45,,S51,S50,,
+,,,,,
+Combined: S15 AND S30 AND S45 ,,,S50 AND S35,,
+,,,,,
+,,,,,
+Combined above with OR,"15,488",2285,25704,,
+MH AND GENDER AND COVID-19,16,2,140,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,Data file – 

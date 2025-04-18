@@ -1,0 +1,171 @@
+ID,Mental Health Measurement Tools,Frequency,Code 1,Code 2
+1,Pittsburge Sleep Quality Index (PSQI),9,1,1
+2,Brief Aggression Questionnaire (BAQ),1,2,1
+3,Generalised Anxiety Disorder Scale Version 7 (GAD-7),49,3,1
+4,Patient Health Questionnaire (PHQ-4/9),48,4,1
+5,Independent Items (items that are not drawn from a validated tool) (II),124,,2
+6,Patient Reported Outcomes Measurement Information System (PROMIS),5,5,1
+7,General Health Questionnaire 12 item (GHQ-12) Japanese 28 item (J-GHQ-28) Spanish (S-GHQ-12),19,5,1
+8,Penn State Worry Questionnaire (PSWQ),1,6,1
+9,Coping Inventory for Stressful Situations (CISS),2,6,1
+10,Warwick-Edinburgh Mental Well-being Scale (WEMWS) Short (S-WEMWS),5,5,1
+11,Depression Anxiety and Stress Scale-21 (DASS-21),37,4,1
+12,Insomnia Severity Index (ISI),7,1,1
+13,Barrat Impulsivity Scale-11 (BIS-11),1,2,1
+14,Center for Epidemiological Studies Depression (CESD) (CESD-8) (CESD-10 (short version)),14,4,1
+15,Connor and Davidson Resilience Scale (CDRS) Chinese (CDR-C) (CDRS-10),3,6,1
+16,Beck Depression Inventory/Fast Screen/BDI-2 (BDI),11,4,1
+17,Resilience Scale for Adults (RSA),2,6,1
+18,The Hospital Anxiety and Depression Scale (HADS) Chinese (HADS-C),9,5,1
+19,Work and Social Adjustment Scale (WSAS),1,2,1
+20,Pandemic Grief Scale (PGS),1,2,1
+21,COVID-19 Peritraumatic Distress Index (CPDI),1,6,1
+22,Bergen Instagram Addiction Scale (BIAS),1,7,1
+23,Internet Addiction Test (IAT),3,7,1
+24,Short Form Health Survey-36 (SF-36),3,5,1
+25,Sleep Quality Numeric Rating Scale (SQNRS),1,1,1
+26,State Trait Anxiety Inventory-6; Portuguese State Trait Inventory (PSTAI); STAI-Children); STAI-Adults (STAI-A); STAI-Spanish (STAI-S)(STAI-C) (STAI-6); Japanese (STAI-J),10,3,1
+27,Three Items Loneliness Scale (TILS),4,9,1
+28,"Perceived Stress Scale-4, PSS-10, PSS-Child (PSS-C) (PSS)",20,6,1
+29,Strengths and Difficulties Questionnaire; SDQ-Japanese (SDQ-J)(SDQ),2,5,1
+30,Brief Resilince Coping Scale (BRCS),5,6,1
+31,The Coping Efficiency Scale (CES),1,6,1
+32,Difficulties in Emotional Regulation Scale (DERS),1,5,1
+33,10-item Body Appreciation Scale (BAS-10),1,10,1
+34,PTSD COVID-19 Questionnaire (PTSD-C),2,6,1
+35,"The Brief COPE Inventory, BCI-Polish (P-BCI) (BCI); Spanish (S-BCI)",9,6,1
+36,WHO Wellbeing Index-10 (WHO-10) (WHO-5),4,5,1
+37,WHO World Mental Health Composite International Diagnostic Interview (WHO-I),2,5,1
+38,WHO Quality of Life (WHO-QOL) Brief (WHOQOL-BREF),6,5,1
+39,Stanford Acute Stress Reaction Questionnaire (SASRQ),3,6,1
+40,Behaviour Risk Factor Surveillance System (BRFSS),1,8,1
+41,Mental Health Self-Reporting Questionnaire-20 (MHSQ-20),1,5,1
+42,"Kessler-6, Kessler-10 (K-10)(K-6)",12,5,1
+43,Fear of Negative Evaluation Scale (FNES),1,2,1
+44,Impact of Events Scale/Child-Revised/Short Form IES (CR-IES) (IES) (IES-SF),12,6,1
+45,Profile of Mood States; Spanish (PMS-S) (PMS),5,5,1
+46,Easting Disorder Inventory-2 (EDI-2),1,10,1
+47,Binge Eating Behaviour (BEB),1,10,1
+48,Exercise Addiction Inventory (EAI),1,10,1
+49,Appearance Anxiety Inventory (AAI),1,10,1
+50,Epidemic-Pandemic Impacts Inventory (EPII),1,6,1
+51,Positive and Negative Affect Schedule (PNAS),2,5,1
+52,Mental Health Inventory-5 (MHI-5),1,5,1
+53,Ryff’s Psychological Well-Being Scales (RPWBS),1,5,1
+54,UCLA Loneliness Scale (UCLA-LS),7,9,1
+55,Mood and Anxiety Symptom Questionnaire Scale (MASQ),3,5,1
+56,Satisfaction with Life Scale (SLS),2,5,1
+57,Scale of Positive and Negative Experience ; Spanish (SPNE-S)(SPNE),3,5,1
+58,Psychological Well-Being Scale (PWBS),2,5,1
+59,Hamilton Anxiety Scale (HAS),3,3,1
+60,Acute Stress Disorder Inventory (ASDI),3,6,1
+61,Distress Thermometer (German) (DT),1,6,1
+62,Psychological General Well-Being Index (PGWBI) Spanish (S-PGWBI),2,5,1
+63,Dutch Eating Behaviour Questionnaire (DEBQ),1,10,1
+64,The Ultra Brief Adjustment Disorder (UBAD),1,5,1
+65,Symptom Checklist-Revised (SC-R) Symptom Checklist-90 (SC-90),5,5,1
+66,Emotional Eater Questionnaire (EEQ),1,10,1
+67,CILiebowitz Social Anxiety Scale (children and adolescents) (LSAS),1,3,1
+68,Recovery-Stress Questionnaire for Athletes (RESQA),1,6,1
+69,Yale-Brown Obsessive Compulsive Scale (YBOCS),1,3,1
+70,Fear of COVID-19 Scale (FCS)B,5,2,1
+71,Orthorexia Nervosa Questionnaire (ONQ),1,10,1
+72,Coping Orientation to Problems Experienced Scale (COPES),1,6,1
+73,Brief symptom Inventory-18 (BSI-18),3,5,1
+74,Stress Appraisal Questionnaire (SAQ),1,6,1
+75,Hospital Anxiety and Depression Scale (HADS) (German) (HADS-G),11,5,1
+76,Trait Meta-Mood Scale Spanish version (TMMS),2,5,1
+77,Student Stress Inventory (SSI),3,6,1
+78,Cannabis Use: Intention Questionnaire (CUIQ),1,7,1
+79,Panic Buying Scale (PBS),1,2,1
+80,PTSD Checklist for DSM-5; Brief PCL-5 (BPCL-5) (PCL-5),5,6,1
+81,Children’s Depression Inventory (CDI),2,4,1
+82,Scale of Confinement and Psychological Impact on Children and Adolescents (SCPICA),2,5,1
+83,Personal Outcomes Measures (POMS),4,5,1
+84,Parental Stress Scale (PSS),20,6,1
+85,Parent-Adolescent Conflict-12 (PAC-12),1,2,1
+86,Revised Child Anxiety and Depression Scale (RCADS),2,5,1
+87,Stress Mindset Measure-General (SMM-G),1,6,1
+88,Childhood Anxiety Sensitivity Index (CASI),1,3,1
+89,Co-Rumination Questionnaire (CRQ),1,6,1
+90,Rosenberg Self-Esteem Scale (RSES),1,6,1
+91,Brief Young Adult Alcohol Consequences Questionnaire (BYAACQ),1,7,1
+92,Multidimensional Emotional Questionnaire (Serbian) MEQ-S,1,5,1
+93,Health Anxiety Inventory-18 (HAI-18),1,3,1
+94,Children’s Worry Scale (CWS),1,6,1
+95,General Wellbeing Scale (GWS),1,5,1
+96,Hopkins Symptom Checklist-4 (HSC-4),1,9,1
+97,Norwegian Directorate of Health Measures on Subjective Quality of Life (NDHM),1,5,1
+98,Whiteley-6 (W-6),1,3,1
+99,Alcohol Use Disorders Identification Test (AUDIT) for Consumption (AUDIT-C),4,7,1
+100,Pandemic Stress Index 3-item (PSI-3),1,6,1
+101,Screen for Child Anxiety Related Emotional Disorders (SCARED),1,3,1
+102,Brief Irritability Test (BIT),1,2,1
+103,Impact of COVID-19 on Sleep Changes Scale (ICSCS),2,1,1
+104,Sleep Hygiene and Practices Scale (SHPS),1,1,1
+105,Student Stress Scale (SSS),2,6,1
+106,Jenkins Sleep Scale (JSS),1,1,1
+107,Subjective Happiness Scale (SHS),1,5,1
+108,Beck Anxiety Inventory 5-item (BAI-5),1,3,1
+109,Spanish Zung Depression (SZD),1,4,1
+110,Wagnild and Young Resilience Scale (WYRS),1,6,1
+111,Sleep Condition Indicator (SCI),1,1,1
+112,Quick Inventory of Depressive Symptomology (QIDS-SR-16),1,4,1
+113,Pandemic Anxiety Scale – Parent (PAS-P),1,3,1
+114,COVIDiSTRESS,1,6,1
+115,Perceived Weight Stigma Scale (PWSS),1,10,1
+116,Weight Bias Internalization Scale (WBIS),1,10,1
+117,Physical Activity Questionnaire (PAQ) Short Form (PAQ-SF),2,10,1
+118,Nomophobia Questionnaire (NQ),2,7,1
+119,Regulatory Emotional Self-Efficacy Scale (RESE),2,5,1
+120,Maslach Burnout Inventory-Human Service Survey (MBIHSS),2,6,1
+121,Game Addiction Scale 7-item (GAS) (Chinese) (GAS-7),2,7,1
+122,Positive and Negative Suicide Ideation Scale (PANSI),1,7,1
+123,COVID-19 Family Stress Screener (C-FSS),1,6,1
+124,CoRonavIruS Health Impact Survey (CRISIS),1,5,1
+125,Global Appraisal of Individual Needs Short Screener (GAIN-SS),1,5,1
+126,Emotional Distress under COVID-19 Scale (ED-COVID-19),1,6,1
+127,Measure of Moral Distress for Healthcare Professionals (MMD-HP),1,6,1
+128,LGBT Minority Stress Measure (LGBT-MSM),1,6,1
+129,Mental Health Continuum (MHC),1,5,1
+130,Mood and Feeling Questionnaire Child Self-Report (MFQ-CSR) Short Mood and Feeling Questionnaire (S-MFQ) (Japanese) (S-MFQ-J),1,5,1
+131,Screen for Child Anxiety Related Disorders Child Version (SCARD-C),1,3,1
+132,Distress Tolerance Scale (DTS),1,6,1
+133,Social Interaction Anxiety Scale (SIAS),1,3,1
+134,Yale Global Tic Severity Scale (YGTSS),1,2,1
+135,State-Trait Depression Scale (STDS),1,4,1
+136,Composite International Diagnostic Interview Screening Scales (CIDI-SS),2,5,1
+137,Columbia Suicide Severity Rating Scale (CSSR-RS),1,7,1
+138,COVID-19 Stressful Life Event Measure (CSLEM),1,6,1
+139,Adjustment Disorder-New Module 8-scale (ADNM-8),1,5,1
+140,Primary Care PTSD Screen for DSM-5 (PCPS-5),2,6,1
+141,Brief Inventory of Thriving (BITH),1,5,1
+142,"Behavioural Proxy (e.g., ED attendance, clinical outcomes in routine evaluation, ambulance attendance) (BP)",3,8,1
+143,Children’s Anxiety and Depression Scale Short Version (CAD-SSV),2,5,1
+144,8-Item Flourishing Scale (FS-8),2,5,1
+145,Athens Insomnia Scale (AIS),1,1,1
+146,Obsessive-Compulsive Inventory (OCI),1,3,1
+147,Suicidal Ideation Attributes Scale (SIAS),1,7,1
+148,Severity of Acute Stress Symptoms Adult Scale (SASS-AS),1,6,1
+149,Post-Traumatic Growth Inventory (PTGI),1,6,1
+150,Self-Perceived Mental Health 4-item (SPMH-4),1,5,1
+151,Self-Perceived Impact of Pandemic on Mental Health 3-item (PIPMH-3),1,6,1
+152,Parent Spence Children’s Anxiety Scale (PSCAS),1,3,1
+153,Spence Children’s Anxiety Scale (SCAS),1,3,1
+154,Children’s Sleep Habits Questionnaire (CSHQ),1,1,1
+155,Children’s Behaviour Checklist (CBC),1,7,1
+156,Coronavirus Anxiety Scale (CAS),2,3,1
+157,De Jong Short Scale (DJSS),1,9,1
+158,COVID-19 Worry Questionnaire (CWQ),1,6,1
+159,Gotland Male Depression Scale (GMDS),1,4,1
+160,Chinese Self-Rating Depression Scale (CSRDS),1,4,1
+161,Adolescent Dissociative Experiences Scale 30-item (ADES-30),1,2,1
+162,Chine Classification of Mental Disorders (CCMD),1,5,1
+163,Depression in Old Age Scale Short Form (DOAS-SF),1,4,1
+164,Dimensions of Anger Reactions 5-item (DAR-5),1,2,1
+165,CAGE Questionnaire (CAGE),1,7,1
+166,Drug Use Disorder Identification Test (DUDIT),1,7,1
+,,,,
+,,,,
+,,,,
+,,,,

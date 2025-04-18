@@ -1,0 +1,77 @@
+CINAHL,,,,,
+,,,,,
+Key search terms,Hits (n=),May-Nov 2022,August,Total,Notes
+,,,2024,,
+Mental Health,,,,,
+,,,,,
+“mental health”[Mesh],"6,005",1566,2,,Major Subject Heading
+“mental Health”,,"3,800",33241,,Keyword
+“psychological distress”[Mesh],"1,311",398,53,,Major Subject Heading
+“psychological distress”,"2,760",779,5812,,Keyword
+“psychological wellbeing”,"7,942",0,336,,Keyword
+“psychological health”,0,0,778,,Keyword
+“psychological impact”,0,0,455,,Keyword
+“mental health impact”,0,0,96,,Keyword
+“mental health condition”,0,0,190,,Keyword
+“psychological disorder”,0,0,37,,Keyword
+“psychiatric disorder”,0,0,292,,Keyword
+“Psychological illness”,0,0,14,,Keyword
+ “Psychology”[Mesh],493,102,4,,Major Subject Heading
+“psychological condition”,0,0,48,,Keyword
+Full Syntax:,,S25,S22,,
+,,,,,
+Search: S19,,,,,
+Combine above with OR,"15,859",7969,38481,,
+,,,,,
+Gender differences,,,,,
+,,,,,
+"""Sex Characteristics""[Mesh]",0,0,92,,Major Subject Heading
+“Gender identity”[Mesh],"3,727",82,31,,Major Subject Heading
+“Gender equity”[Mesh],0,0,34,,Major Subject Heading
+“gender differences”,0,0,1451,,Keyword
+“sex characteristics”,0,0,33,,Keyword
+“Gender equity”,0,0,154,,Keyword
+“gender identity”,"7,333",246,1589,,Keyword
+“gender disparity”,0,0,84,,Keyword
+“gender impacts”,0,0,2,,Keyword
+“gender impact”,0,0,13,,Keyword
+“gender groups”,0,0,81,,Keyword
+“gender comparison”,0,0,17,,Keyword
+“gender analysis”,0,0,42,,Keyword
+Full syntax: ,,,Gender: S48,,
+,,,,,
+Search:  S35,,,COM MH & G: S48 AND S22,,
+,,,,,
+COMBINED MH AND GENDER: S19 AND S35,,,,,
+,,,,,
+,,,,,
+Combined above with OR,"7,333",246,3373,,
+,,,,,
+MH AND GENDER  ,87,48,552,,
+,,,,,
+COVID-19,,,,,
+,,,,,
+“COVID-19”[Mesh],"26,680",2818,7,,Major Subject Heading
+"""Pandemics""[Mesh]",0,0,1,,Major Subject Heading
+“global pandemic”,0,0,607,,Keyword
+“COVID-19”,"57,870",8908,59504,,Keyword
+“COVID-19 pandemic”,"27,764",5623,33775,,Keyword
+“lockdown”,0,0,2070,,Keyword
+“COVID-19 lockdown”,0,0,764,,Keyword
+“pandemics”,0,0,1170,,Keyword
+“global health emergency”,0,0,112,,Keyword
+“contagion mitigation”,0,0,2,,Keyword
+“social distancing”,"2,234",244,1502,,Keyword
+“coronavirus 2019”,0,0,257,,Keyword
+“novel coronavirus”,0,0,366,,Keyword
+Full syntax: S50,,S60,S70,,
+,,,,,
+Search: S36 AND S50,,,S70 AND S52,,
+,,,,,
+,,,,,
+Combined above with OR,"58,029",8927,60147,,
+MH AND GENDER AND COVID-19,5,2,56,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
